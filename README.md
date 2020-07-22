@@ -1,1 +1,1 @@
-# confidence_interval.github.io
+#Confidence Interval Related Questions
